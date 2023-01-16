@@ -22,19 +22,12 @@ body {
   text-align: center;
 }
 .img {
-  /* max-width: 100%;
-  object-fit: cover;
-  height: 288px;
-  width: 50px; */
-
   object-fit: cover;
   /* display: inline-block; */
   /* margin: 0 auto; */
   max-width: 100%;
   height: auto;
   border-radius: 10px;
-  /* border-radius: 20px; */
-  /* padding: 12px 10px 10px; */
   width: 90%;
 }
 .container {
